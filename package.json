@@ -1,0 +1,16 @@
+{
+  "name": "comm-craft",
+  "version": "1.0.0",
+  "description": "Advanced-proj",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "slugify": "^1.6.6"
+  }
+}
